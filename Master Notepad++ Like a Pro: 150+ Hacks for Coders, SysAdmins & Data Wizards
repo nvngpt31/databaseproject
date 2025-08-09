@@ -1,0 +1,439 @@
+👩💻 Basic or Beginner Users: Start Strong! 
+🚀 Essential Search Shortcuts  
+🔍 Ctrl+F: Find anything instantly!  
+
+↕️ F3/Shift+F3: Jump to next/previous match.  
+
+🔄 Ctrl+H: Replace text like magic!  
+
+📂 Ctrl+Shift+F: Search across ALL your files.  
+
+⚡ Ctrl+Alt+I: Start typing to leap to matches (Incremental Search)!  
+
+✨ Line Operations You’ll Use Constantly  
+🧬 Ctrl+D: Clone your current line in a flash!  
+
+🗑️ Ctrl+L: Bye-bye, unwanted line!  
+
+⬆️⬇️ Ctrl+Shift+Up/Down: Move lines up/down effortlessly.  
+
+🔀 Ctrl+T: Swap lines with their sneaky neighbor.  
+
+🤝 Ctrl+J: Merge lines into one cozy sentence. 
+
+💡 Quick Commenting Hacks  
+💬 Ctrl+Q: Toggle comments on/off (works if your language supports it)!
+
+🤖 Auto-Completion Basics  
+⚙️ Go to Settings > Preferences > Auto-Completion: Enable Word & Function completion.
+
+🚀 Ctrl+Space: Summon word suggestions instantly!  
+
+📜 Ctrl+Shift+Space: Peek at function hints (if available). 
+
+📖 Word Wrap Magic  
+🌯 View > Word Wrap: Unwrap long lines for smooth reading! 
+
+🔖 Bookmarks for Lightning Navigation  
+📌 Ctrl+F2: Drop a bookmark here! Tap again to vanish it.  
+
+⏩ F2/Shift+F2: Zip to next/previous bookmark like a ninja.  
+
+✂️ Search > Bookmark Menu: Cut, copy, or delete bookmarked lines in a snap! 
+
+📦 Column Mode Selection Magic  
+🖱️ Hold Alt + drag (or Alt+Shift + arrow keys) to select rectangular blocks—perfect for column edits!  🧱 Edit spreadsheets, code, or lists with laser precision!  
+
+🎮 Column Editor: Bulk-Editing Superpowers  
+🛠️ Edit > Column Editor (Alt+C):  
+
+Fill columns with 🌟 custom text, 🔢 numbered sequences, or even add zero-padding (like 001, 002…)!  
+
+Set start numbers, steps, and padding—total control!
+
+👾 Multi-Editing Cursors = Coding Wizardry  
+⚙️ Enable in Settings > Preferences > Editing.  
+
+➕ Ctrl+Click to add multiple cursors—type in 10 places at once! 💥  
+
+🧙♂️ Ideal for renaming variables or updating repetitive code!
+
+🧩 Matching Brace Navigation  
+🔄 Ctrl+B: Instantly bounce between matching (), [], or {}!  
+
+🔍 Never get lost in nested code labyrinths again! 
+
+🛰️ Panels That Boost Awareness  
+🗂️ View > Function List: Instantly see functions/classes (for many languages)—your code’s roadmap!  
+
+🗺️ Document Map: A mini-map on the right—scroll big files like a pro!  
+
+📄 Document List: Jump between open files lightning-fast! 
+
+💔 Split View (Clone Your Document)  
+🖥️ View > Move/Clone > Clone to Other View: Edit the same file side-by-side in live sync!  
+
+✨ Perfect for comparing code or working on distant sections at once! 
+
+👁️ Show Invisible Characters  
+View > Show Symbol > Show All Characters: Reveal hidden tabs (→), spaces (·), and line endings (¬).  
+
+🕵️♂️ Catch sneaky formatting gremlins ruining your code!  
+
+🔀 End-of-Line (EOL) Conversions  
+🌐 Edit > EOL Conversion:  
+
+Switch between Windows (CRLF), Unix (LF), or retro Macintosh (CR) line endings.  
+
+⚠️ Fix cross-platform “line-ending chaos” in seconds! 
+
+🛡️ Encoding Sanity Saves Lives  
+📜 Encoding Menu:  
+
+Use “Convert to UTF-8 (without BOM)” for universal compatibility.  
+
+💡 Pro Tip: “Encode in” changes how you view text; “Convert to” alters how it’s saved!  
+
+📂 Sessions (Never Lose Your Setup!)  
+📚 File > Save Session: Save your entire workspace (open files, tabs, etc.) for later!  
+
+🔄 File > Load Session: Switch coding contexts in a snap—work, personal, or secret projects! 🔐 
+
+💾 Automatic Backups & Crash Safety  
+⚙️ Settings > Preferences > Backup:  
+
+✅ Enable Session Snapshot + Periodic Backup (never lose progress!).  
+
+🗂️ Set backup folder & interval (e.g., every 5 mins).  
+
+🛡️ Sleep easy—your work survives crashes!
+
+🎨 Themes & Fonts: Code in Style  
+🌈 Settings > Style Configurator:  
+
+Pick themes like Obsidian (dark mode vibes) or Monokai (retro cool).  
+
+🔤 Customize fonts + sizes for eye-friendly coding marathons.  
+
+✨ Pro Tip: Match your editor to your mood! 
+
+📂 Default Directories & File Dialogs  
+🗂️ Settings > Preferences > Default Directory:  
+
+⚡ “Follow current document”: File dialogs auto-open where you’re working.  
+
+🔄 “Remember last used”: Start where you left off. 
+
+📋 Clipboard History = Supercharged Copy-Paste  
+View > Clipboard History: Open a panel with multiple copied items!  
+
+📝 Paste from earlier copies—no more re-copying! 🎉  
+
+Secret power: Perfect for juggling snippets or repetitive tasks! 
+
+📂 Project & Folder Panels (Level Up Your Workflow!)  
+🌐 View > Project: Manage ad-hoc projects like a boss!  
+
+📁 View > Folder as Workspace: Dock a folder tree for lightning-fast file access.  
+
+Pro move: Organize code, notes, or drafts in seconds!  
+
+🔄 Compare Two Files Like a Pro (Plugin Power!)  
+🔍 Plugins > Plugins Admin > Install “Compare”:  
+
+Diff files side-by-side 🆚 and navigate changes with arrows.  
+
+🧩 Perfect for spotting sneaky bugs or tracking edits!
+
+📂 Instant Folder Access  
+🖱️ Right-click a tab > Open Containing Folder:  
+
+Launch in Explorer (GUI lovers) or cmd (terminal ninjas)!  
+
+No more digging through nested folders! 🕵️♂️  
+
+📌 Stay Focused: Always-on-Top & Full-Screen  
+📍 F12: Toggle “Post-It mode” to pin your editor over other apps.  
+
+🖥️ F11: Enter full-screen zen mode—distraction-free coding! 🧘♂️  
+
+🔗 Smart Hyperlinks  
+⚙️ Settings > Preferences > MISC > Clickable Links:  
+
+✨ Ctrl+Click URLs or file paths to open them instantly!  
+
+Bonus: No more manual copy-pasting—let the editor do the work! 🤖  
+
+🖨️ Printing with Syntax Colors (No Boring Black & White!)  
+File > Print > Options: Print code with line numbers and syntax highlighting!  
+
+🌈 Turn your code into vibrant art—perfect for notes, debugging, or showing off!  
+
+👆 Drag-and-Drop Magic  
+🖱️ Drag tabs to reorder them like puzzle pieces.  
+
+➕ Drag a tab out of the window to spawn a new Notepad++ instance!  
+
+🧪 Ctrl+Drag: Clone a tab to another window—multitask like a wizard!  
+
+🔍 Find Across ALL Opened Docs  
+In the Find dialog, select “In All Opened Documents” to search/replace in every open file.
+
+🚀 Supercharge mass updates or cleanup tasks!  
+
+🌈 Language Selection = Code Rainbow  
+Language Menu: Pick syntax highlighting for your file type (Python, HTML, etc.).  
+
+💬 Improves readability and makes commenting shortcuts (like Ctrl+Q) work!  
+
+🛡️ Install Plugins Safely  
+Plugins > Plugins Admin: Browse vetted plugins, install/update/remove them in-app.  
+
+🧙♂️ Add power-ups like Compare, JSON tools, or macros—no sketchy downloads! 
+
+🚀 Advanced Users: Level Up Your Workflow!
+🔍 Regular Expressions That Matter  
+Search Mode: Regular Expression (regex magic! 🧙♂️)  
+
+Example: Prefix lines with //  ➔ Find ^, Replace //   
+
+🧹 Remove double spaces: [ ]{2,} → replace with single space  
+
+🎯 Wrap lines in HTML: ^(.+)$ → replace with <li>$1</li> 
+
+📌 Mark & Bookmark Like a Pro  
+Find dialog > Mark tab:  
+
+✅ Check “Bookmark line” + “Regular expression” → Mark All!  
+
+✂️ Use Search > Bookmark to copy/cut/delete marked lines instantly.
+
+🧹 Sort & Clean Lines  
+Edit > Line Operations:  
+
+Sort lines (🔺 asc/desc, case-sensitive, as integers)  
+
+Remove duplicates, empty lines, or merge lines → clean code in seconds! 
+
+🚿 Whitespace Hygiene  
+Edit > Blank Operations:  
+
+Trim trailing spaces 🪒, remove leading spaces 🧼  
+
+Convert tabs ↔ spaces (⚙️ Set rules in Preferences > Language > Tab Settings).
+
+⚡ Column Editor Power Moves  
+Fill Number: Generate sequences like 001, 002… with custom padding!  
+
+Fill Text: Bulk-add prefixes/suffixes → perfect for code templates 🏗️  
+
+🎥 Macro Recording & Replay  
+Record actions → bind to hotkeys → repeat 100x with Run Macro Multiple Times!
+
+💥 Replace in ALL Opened Files  
+Click Replace All in All Opened Documents → mass edits in seconds!
+
+🗂️ Find in Files with Filters  
+Ctrl+Shift+F → search folders with .js;.txt filters + regex → sweeping refactors!
+
+📤 NppExport for Sharing  
+Copy/export code as RTF/HTML → email-ready syntax-highlighted snippets! 
+
+⚖️ Compare Plugin Workflow  
+Compare files side-by-side → toggle Ignore Spaces → focus on meaningful changes! 
+
+🔧 JSON/XML Tools  
+JSTool/JSON Viewer: Beautify, minify, validate JSON in a click! 🎨  
+
+XML Tools: Pretty-print, validate, run XPath queries → XML mastery! 🗃️ 
+
+🌐 NppFTP for Remote Editing  
+Edit files directly on servers via SFTP/FTP → auto-upload on save! 🖥️ 
+
+ 💻 NppExec Automations  
+Run scripts (e.g., python "$(FULL_CURRENT_PATH)") → assign to shortcuts! 🤖  
+
+Use variables like $(CURRENT_WORD) → dynamic command power!  
+
+🚀 Run Menu One-Click Magic  
+F5 examples:  
+
+Open terminal: cmd /k cd "$(CURRENT_DIRECTORY)"  
+
+Search MDN docs: chrome "https://mzl.la/3RrTQxK?q=$(CURRENT_WORD)"  
+
+👁️ Log File Tailing  
+View > Monitoring → live-tail logs like tail -f → debug hands-off! 📜  
+
+🔠 Language-Specific Tab Settings  
+Python/YAML need spaces? Set per language in Preferences > Language → no more syntax wars!  
+
+🔺 Code Folding Shortcuts  
+- Alt+0: Fold all → focus mode. Alt+Shift+0: Unfold → see the big picture!  
+
+🔦 Word-Based Search  
+Ctrl+F3/Ctrl+Shift+F3: Jump to next/prev occurrence → no dialog needed!  
+
+📜 Function List Tuning  
+Ensure correct language is selected → navigate giant files at warp speed! ⚡  
+
+↔️ Document Switcher  
+Ctrl+Tab: Flip through tabs → tweak behavior in Preferences > General.  
+
+📂 Folder vs Project Panel  
+Folder as Workspace: Ad-hoc browsing.  
+
+Project Panel: Curate reusable sets → save time! 🕒  
+
+📋 Clipboard History  
+Adjust entries kept → never lose that copied snippet! ✂️  
+
+ 🔠 Case Conversions  
+UPPER/lower/Proper/Sentence case → transform text in a click! 🪄  
+
+🛡️ Safer Save Macro  
+Record: Trim trailing spaces → Save → bind to Alt+S → clean saves every time!  
+
+⏰ Recent Files  
+File > Recent Files → tweak history length in Preferences → quick access!  
+
+🚚 Move/Copy Text Blocks  
+Drag to move → Ctrl+drag to copy → column mode = rectangular magic! 🧙♂️  
+
+🧹 Clear All Bookmarks  
+Ctrl+Shift+F2 → wipe bookmarks fast!  
+
+🔗 Clickable Link Settings  
+Customize clickable URLs/paths in Preferences > MISC → Ctrl+Click to launch!  
+
+👁️ Toggle UI Clutter  
+Hide line numbers/indent guides → zen mode for huge files! 🧘♂️  
+
+🦸 Expert Users: Unleash the Beast Mode!
+🔍 Regex Mastery: Capture Groups & Backreferences  
+Reorder CSV columns:  
+
+Find: ^([^,]+),([^,]+),([^,]+)$ → Replace: $2,$1,$3 🔄  
+
+Hunt non-ASCII characters:  
+
+[^\x00-\x7F] → Find hidden symbols 🌐  
+
+Multi-line magic:  
+
+Enable “. matches newline” (dotall) with (?s) in your pattern! 🌀  
+
+🩺 Lookahead/Lookbehind: Surgical Edits  
+Add missing semicolons (but skip comments):  
+
+Find: (?m)^(?!\s//)(.\S)(?<!;)$ → Replace: $1; 🧪  
+
+Insert notes before imports:  
+
+Find: (?=import ) → Replace: // NOTE:  📌  
+
+🎭 Conditional Formatting via Alternation  
+Tag errors vs warnings:  
+
+Find: ^((ERROR).)|((WARN).)$ → Replace: [ERR] $2$3 [WRN] $4$5 🏷️  
+
+Pro Tip: Combine regex passes with bookmarks for precision!  
+
+📂 Advanced Mark + Bookmark Pipelines  
+Find dialog > Mark tab → “In all opened docs” + regex → Bookmark lines → Copy/Cut/Delete in bulk! 🗂️  
+
+🐍 PythonScript Automation (Plugin)  
+Batch replace across files → Save with trimmed whitespace → Enforce standards on save! 🤖  
+
+editor.rereplace(pattern, repl) # Magic in one line!
+
+Hook events like fileSaved → Auto-clean code like a pro!  
+
+🚧 NppExec Build/Run Pipelines  
+Compile + run with clickable errors: 
+
+cmd /c gcc "$(FULL_CURRENT_PATH)" -o "$(NAME_PART).exe" && "$(CURRENT_DIRECTORY)\$(NAME_PART).exe"
+
+Click error lines to jump to code! 🏃♂️  
+
+⚙️ XML Macro Customization  
+Edit shortcuts.xml → Add regex steps, chain actions → Assign custom hotkeys! 🔧  
+
+Backup first → Close Notepad++ before tweaking!  
+
+📋 Custom Menus & Context Actions  
+Modify contextMenu.xml → Add “Trim trailing space” or “Remove duplicates” → Restart to unleash! 🛠️  
+
+☁️ Portable & Synced Setups  
+Make portable with doLocalConf.xml → Sync configs via cloud → Same setup on all machines! 🧳  
+
+🎨 User-Defined Language (UDL)  
+Language > Define your language… → Craft syntax rules → Export/import XML to share with teammates! 🖌️  
+
+🐘 Tame Gigantic Files  
+Use 64-bit build → Disable word wrap → Hide line numbers → Speed over sparkle! 🏋️♂️  
+
+🌈 Performance Visualization  
+Style Configurator → Tweak current line highlights → Stay focused in massive docs! 🎯  
+
+🔧 Scintilla Commands Deep Dive  
+Bind duplicate selection or delete to line end → Master text gymnastics! 🤸♂️  
+
+🗂️ Session Curation  
+Save .session files for contexts like “Release-branch” → Edit XML (carefully!) to reorder tabs. 💾  
+
+📝 Custom Snippets & Templates  
+Use QuickText → Insert boilerplate → Multi-caret to fill placeholders! 📌  
+
+🔄 On-Save Formatting Pipeline  
+Hook clang-format or prettier → Auto-format code on save → Reload clean files! ✨  
+
+📜 Advanced JSON/XML Querying  
+XML Tools: Run XPath → Extract data lightning-fast!  
+
+JSON Viewer: Collapse deep trees → Pair with regex for reports! 🌳  
+
+📎 Smart Link & Path Handling  
+Tune Clickable Links → Ctrl+click UNC paths → Jump to files in logs! 🗺️  
+
+🌐 Multiline Replacements with Indent Respect  
+Find: (?m)^(\s)foo$ → Replace: $1bar → Keep code aligned! 📐  
+
+🚫 Selective Search Excludes  
+Filter folders → Use Folder as Workspace → Skip unwanted directories! 🕵️♂️  
+
+🧭 Navigation Habits  
+Ctrl+B for matching braces → Auto-close HTML/XML tags → Fly through code! 🛸  
+
+🔀 Dynamic Columns with Regex  
+Align delimiters → Column-mode edit → Visual perfection! 🎨  
+
+📌 Advanced Bookmarking  
+Bookmark non-TODO lines → Delete/copy in one go! 🧹  
+
+🕵️ Detect Hidden BOMs  
+Encoding menu → Convert to UTF-8 (no BOM) → Avoid invisible chaos! 🚫  
+
+⚖️ Compare Plugin for Code Reviews  
+Clone tabs → Compare → Spot differences → Code review made easy! 🔄  
+
+📝 Automated Changelogs  
+Bookmark FIX: lines → Copy to new doc → Generate release notes in seconds! 📋  
+
+💻 Command-Line Power  
+Launch to line 123, column 5:  
+
+notepad++.exe -n123 -c5 "C:\path\file.txt"
+
+Switches: -multiInst, -nosession, -noPlugin (safe mode). 🎮  
+
+🔄 File Change Detection  
+Auto-reload modified files → Silent updates for log monitoring! 📡  
+
+🔒 Plugin Hygiene  
+Use Plugins Admin → Backup configs → Avoid sketchy DLLs! 🛡️  
+
+🚀 Linter & Test Runner Integration  
+Run eslint/flake8 → Parse outputs → Click errors to jump! 🧪  
+
+Now you’re ready to code like a wizard! 🧙♂️✨
